@@ -1,0 +1,15 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# CEEP Contra as BETS - Configurações do Guia
+backend/venv/
+backend/__pycache__/
+*.pyc
+bd/*.db
+

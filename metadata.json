@@ -1,0 +1,6 @@
+{
+  "name": "CEEP Contra as Bets - Petição Pública",
+  "description": "Plataforma de conscientização contra apostas virtuais integrada com banco de dados SQLite e API relacional 1:N de assinaturas e categorias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
